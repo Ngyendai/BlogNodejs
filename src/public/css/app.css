@@ -2,4 +2,9 @@ h1 {
   color: red; }
 
 h2 {
-  color: yellow; }
+  color: yellow;
+  background-color: red; }
+
+.width-option {
+  width: 150px;
+  margin: 0 2%; }
